@@ -1,9 +1,7 @@
 # Test repo for 2020 CREATE module in reproducibility
 
-## Gavin
+## Danielle
 
 Test repo for CREATE Reproducibility module
 
-An interesting paragraph.
-
-Another interesting paragraph.
+Learning how to use Git
